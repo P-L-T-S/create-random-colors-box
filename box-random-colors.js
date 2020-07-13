@@ -1,4 +1,3 @@
-/*
 // document.querySelector seleciona um elemento / selecionar elemento
 const btn = document.querySelector("#botao");
 
@@ -53,4 +52,3 @@ btn.onclick = () => {
 }
 
 let nomes = [];
-*/
